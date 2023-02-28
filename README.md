@@ -55,40 +55,44 @@ Replace `filename` with the name of the TypeScript file you want to test.
 ## Content
 The folders contain exercise such as the following for example:  
 
-### Exercise Type 1: Variables and Basic Types
-Create a TypeScript file named exercise1.ts. In this file, declare a variable for each of the following:
+<details>
+<summary><h5> Exercise type 1: Variables and Basic Types</h5></summary>
+Create a TypeScript file named exercise1.ts. In this file, declare a variable for each of the following: </br>
+A number,   </br>
+A string,  </br>
+A boolean,  </br>
+An array of numbers,  </br>
+An array of strings,  </br>
+Assign a value to each variable, then log the value of each variable to the console. </br>
 
-A number
-A string
-A boolean
-An array of numbers
-An array of strings
-Assign a value to each variable, then log the value of each variable to the console.
+</details>
 
-### Exercise Type 2: Functions
-Create a TypeScript file named exercise2.ts. In this file, create a function that takes two parameters:
-
-A number
-A string
-The function should return a string that concatenates the number and the string parameter. For example, if the function is called with 3 and "red", it should return "3red".
-
+<details>
+<summary><h5>Exercise Type 2: Functions.</h5></summary>
+Create a TypeScript file named exercise2.ts. In this file, create a function that takes two parameters: </br>
+A number, </br>
+A string, </br>
+The function should return a string that concatenates the number and the string parameter. For example, if the function is called with 3 and "red", it should return "3red".</br>
 Call the function with some values and log the result to the console.
+</details>
 
-### Exercise Type 3: Classes and Interfaces
-Create a TypeScript file named exercise3.ts. In this file, define a class called Person. The Person class should have the following properties:
-
-name (string)
-age (number)
-The Person class should also have a method called greet that logs a greeting to the console. The greeting should include the person's name and age.
+<details>
+<summary><h5>Exercise Type 3: Classes and Interfaces</h5></summary>
+Create a TypeScript file named exercise3.ts. In this file, define a class called Person. The Person class should have the following properties:  </br>
+name (string),  </br>
+age (number),  </br>
+The Person class should also have a method called greet that logs a greeting to the console. The greeting should include the person's name and age. </br>
 
 Create an interface called IPerson that defines the same properties as the Person class. Implement the IPerson interface on the Person class.
-
 Create an instance of the Person class, set the name and age properties, and call the greet method.
+</details>
 
-### Exercise Type 4: Asynchronous Programming
-Create a TypeScript file named exercise4.ts. In this file, create a function that takes a callback as a parameter. The callback should be called after a random amount of time between 0 and 5 seconds, and should return a random number between 0 and 10.
 
+<details>
+<summary><h5>Exercise Type 4: Asynchronous Programming.</h5></summary>
+takes a callback as a parameter. The callback should be called after a random amount of time between 0 and 5 seconds, and should return a random number between 0 and 10. </br>
 Call the function and log the result to the console. The result should be a random number between 0 and 10, but the function may take some time to complete. Use async/await to handle the asynchronous behavior.
+</details>
 
 ## Contributing
 

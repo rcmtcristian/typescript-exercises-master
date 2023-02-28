@@ -1,4 +1,9 @@
+
 # TypeScript Exercises
+
+![App Screenshot](https://i.imgur.com/VZeGBDI.png)
+
+## Exercises
 
 This repository contains a collection of TypeScript exercises designed to test my knowledge of the language. The exercises cover a wide range of topics, from basic syntax and data types to advanced concepts such as object-oriented programming and asynchronous programming.
 
